@@ -1,0 +1,20 @@
+{
+    "name": "acer/asm2",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Asm2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dinh Viet Duc",
+            "email": "hiinenodz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
